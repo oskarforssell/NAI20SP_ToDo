@@ -6,15 +6,17 @@
 
 ### Introduction to Networks
 - [x] Module 3
-- [ ] Module 4
-  - [ ] Module 1-4 exam
-- [ ] Module 5
-- [ ] Module 6
+- [ ] Module 4 (due 17FEB2021)
+  - [ ] Module 1-4 exam (due 17APR2021)
+- [ ] Module 5 (due 24FEB2021)
+- [ ] Module 6 (due 24FEB2021)
 
 ### Basics of programming
 - [ ] Task 8 (due 28FEB2021)
 
 ### ROS
+- [ ] 2nd lecture exam (10MAY2021)
+- [ ] 4th lecture exam (10MAY2021)
 
 ### Extra
 YouTube tutorial:
