@@ -1,4 +1,11 @@
-# NAI20SP-AI-group-test-repo
-Repo only made for test purposes
+# NAI20SP To Do List
 
-<code> This is just a test repo </code>
+Introduction to Networks
+- [ ] Module 4
+- [ ] Module 5
+- [ ] Module 6
+
+Basics of programming
+- [ ] Task 8
+
+<code> This is a test repo </code>
