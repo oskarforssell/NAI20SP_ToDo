@@ -1,6 +1,7 @@
 # NAI20SP To Do List
 
 Introduction to Networks
+- [x] Module 3
 - [ ] Module 4
 - [ ] Module 5
 - [ ] Module 6
@@ -8,4 +9,11 @@ Introduction to Networks
 Basics of programming
 - [ ] Task 8
 
-<code> This is a test repo </code>
+---
+<code> Repo README markdown test </code>
+
+Test | box | grid
+:--|--|--:
+First | second | third
+Fourth | fifth | sixth
+Seventh | eighth | ninth 
