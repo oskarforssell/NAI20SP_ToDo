@@ -3,6 +3,12 @@
 ### Server architecture 
 - [ ] FastAPI & uvicorn 
 - [ ] Django
+- [ ] Checkout the Django material in [Moodle](https://samkmoodle.samk.fi/course/view.php?id=354 "18.2.2021 - FastAPI & Django") 
+	Downloadable:
+	- [ ] [fastapi\_login\_example.zip](https://samkmoodle.samk.fi/mod/resource/view.php?id=13608)
+	- [ ] [template\_chatbot.html](https://samkmoodle.samk.fi/mod/resource/view.php?id=13617)
+	- [ ] [static.zip](https://samkmoodle.samk.fi/mod/resource/view.php?id=13632)
+	- [ ] [chatbot\_django\_wip\_18\_2\_2021.zip](https://samkmoodle.samk.fi/mod/resource/view.php?id=13687)
 
 ### Introduction to Networks
 - [x] Module 3
@@ -11,8 +17,10 @@
 - [ ] Module 5 (due 24FEB2021)
 - [ ] Module 6 (due 24FEB2021)
 
-### Basics of programming
-- [ ] Task 8 (due 28FEB2021)
+### Basics of programming 2
+- [ ] Task 8 (due 28FEB2021) <br/>
+Link to Moodle [Task 8](https://samkmoodle.samk.fi/mod/resource/view.php?id=13591)
+Link to Moodle [Return task8 here](https://samkmoodle.samk.fi/mod/assign/view.php?id=13590)
 
 ### ROS
 - [ ] 2nd lecture exam (10MAY2021)
