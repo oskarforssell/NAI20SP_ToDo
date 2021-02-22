@@ -21,10 +21,16 @@
 - [ ] Task 8 (due 28FEB2021) <br/>
 Link to Moodle [Task 8](https://samkmoodle.samk.fi/mod/resource/view.php?id=13591)
 Link to Moodle [Return task8 here](https://samkmoodle.samk.fi/mod/assign/view.php?id=13590)
+- [ ] Normal - check pillow for guide to save ascii image
+- [ ] Hard - move the url retrieving feature into the class as a method.
 
 ### ROS
 - [ ] 2nd lecture exam (10MAY2021)
 - [ ] 4th lecture exam (10MAY2021)
+- [ ] write instructions to GitHub on how to get the services running (and different commands)
+
+### C#
+- [ ] Github instructions (own reference)
 
 ### Extra
 YouTube tutorial:
