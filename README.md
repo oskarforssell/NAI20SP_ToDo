@@ -34,7 +34,7 @@ Link to Moodle [Return task8 here](https://samkmoodle.samk.fi/mod/assign/view.ph
 
 ### Extra
 YouTube tutorial:
-[Juhos' version ctrl videos](https://www.youtube.com/watch?v=A2lt5TORO1c&list=PLT_HKwjjqjcUtdDqbleCDkev0KyUYF5uj "Watch on https://www.youtube.com/")
+[Juhos' version ctrl videos](https://www.youtube.com/watch?v=A2lt5TORO1c&list=PLT_HKwjjqjcUtdDqbleCDkev0KyUYF5uj "Juho Salli's tutorial on https://www.youtube.com/")
 
 ---
 <code> Repo README markdown test </code>
