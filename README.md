@@ -21,7 +21,7 @@
 - [ ] Task 8 (due 28FEB2021) <br/>
 Link to Moodle [Task 8](https://samkmoodle.samk.fi/mod/resource/view.php?id=13591)
 Link to Moodle [Return task8 here](https://samkmoodle.samk.fi/mod/assign/view.php?id=13590)
-- [ ] Normal - check pillow for guide to save ascii image
+- [x] Normal - check pillow for guide to save ascii image <br/>
 - [ ] Hard - move the url retrieving feature into the class as a method.
 
 ### ROS
