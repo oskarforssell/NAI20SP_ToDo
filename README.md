@@ -26,8 +26,8 @@ List in order of urgency:
 - [ ] Task 8 (due 28FEB2021) <br/>
 Link to Moodle [Task 8](https://samkmoodle.samk.fi/mod/resource/view.php?id=13591)
 Link to Moodle [Return task8 here](https://samkmoodle.samk.fi/mod/assign/view.php?id=13590)
-- [x] Normal - check pillow for guide to save ascii image. **Task returned** <br/> 
-- [ ] Hard - move the url retrieving feature into the class as a method. **In process**
+  - [x] Normal - check pillow for guide to save ascii image. **Task returned** <br/> 
+  - [ ] Hard - move the url retrieving feature into the class as a method. **In process**
 
 ### ROS
 - [ ] 2nd lecture exam (10MAY2021)
