@@ -30,6 +30,7 @@ Link to Moodle [Return task8 here](https://samkmoodle.samk.fi/mod/assign/view.ph
   - [ ] Hard - move the url retrieving feature into the class as a method. **In process**
 
 ### ROS
+[ROS repo](https://github.com/oskarforssell/ros_course)
 - [ ] 2nd lecture exam (10MAY2021)
 - [ ] 4th lecture exam (10MAY2021)
 - [ ] write instructions to GitHub on how to get the services running (and different commands)
