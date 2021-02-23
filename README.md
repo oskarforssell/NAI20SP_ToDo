@@ -35,7 +35,7 @@ Link to Moodle [Return task8 here](https://samkmoodle.samk.fi/mod/assign/view.ph
 - [ ] 4th lecture exam (10MAY2021)
 - [ ] write instructions to GitHub on how to get the services running (and different commands)
 
-### C#
+### C# [repo](https://github.com/oskarforssell/c_code)
 - [ ] Github instructions (own reference)
 
 ### Extra
