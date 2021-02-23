@@ -4,7 +4,7 @@ List in order of urgency:
 1. **Basics of Programming 2** (28FEB - Hard deadline)
 2. **Introductino to Networks** (17/24FEB - Flexible deadline)
 3. **ROS** (10MAY - Hard deadline)
-
+---
 ### Server architecture 
 - [ ] FastAPI & uvicorn 
 - [ ] Django
