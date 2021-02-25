@@ -15,7 +15,7 @@ List in order of urgency:
 	    - [ ] [static.zip](https://samkmoodle.samk.fi/mod/resource/view.php?id=13632)
 	    - [ ] [chatbot\_django\_wip\_18\_2\_2021.zip](https://samkmoodle.samk.fi/mod/resource/view.php?id=13687)
 
-### Introduction to Networks [[repo]](https://github.com/oskarforssell/server_architectures/blob/master/networks.md)
+### Introduction to Networks [[repo md]](https://github.com/oskarforssell/server_architectures/blob/master/networks.md)
 - [x] Module 3
 - [x] Module 4 (due 17FEB2021)
   - [x] Module 1-4 exam (due 17APR2021)
