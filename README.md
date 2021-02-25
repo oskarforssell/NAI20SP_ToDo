@@ -23,7 +23,7 @@ List in order of urgency:
 - [ ] Module 6 (due 24FEB2021)
 
 ### Basics of programming 2 [[repo]](https://github.com/oskarforssell/python_course_2021)
-- [ ] Task 8 (due 28FEB2021) <br/>
+- [ ] Task 8 (due 28FEB2021) [[repo]](https://github.com/oskarforssell/python_course_2021/tree/master/task8_img_to_ascii_folder)<br/>
 Link to Moodle [Task 8](https://samkmoodle.samk.fi/mod/resource/view.php?id=13591) <br/>
 Link to Moodle [Return task8 here](https://samkmoodle.samk.fi/mod/assign/view.php?id=13590)
   - [x] Normal - check pillow for guide to save ascii image. **Task returned** <br/> 
