@@ -18,7 +18,7 @@ List in order of urgency:
 ### Introduction to Networks
 - [x] Module 3
 - [x] Module 4 (due 17FEB2021)
-  - [ ] Module 1-4 exam (due 17APR2021)
+  - [x] Module 1-4 exam (due 17APR2021)
 - [ ] Module 5 (due 24FEB2021)
 - [ ] Module 6 (due 24FEB2021)
 
