@@ -21,6 +21,9 @@ List in order of urgency:
   - [x] Module 1-4 exam (due 17APR2021)
 - [ ] Module 5 (due 24FEB2021)
 - [ ] Module 6 (due 24FEB2021)
+- [ ] Module 7 (due 03MAR2021)
+- [ ] Module 8 (due 03MAR2021)
+  - [ ] Module 5-8 exam (due 03MAR2021)
 
 ### Basics of programming 2 [[repo]](https://github.com/oskarforssell/python_course_2021)
 - [ ] Task 8 (due 28FEB2021) [[repo]](https://github.com/oskarforssell/python_course_2021/tree/master/task8_img_to_ascii_folder)<br/>
