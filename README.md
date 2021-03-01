@@ -1,7 +1,7 @@
 # NAI20SP To Do List
 
 List in order of urgency:
-1. **Basics of Programming 2** (28FEB - Hard deadline)
+1. ~**Basics of Programming 2** (28FEB - Hard deadline)~
 2. **Introductino to Networks** (17/24FEB - Flexible deadline)
 3. **ROS** (10MAY - Hard deadline)
 ---
@@ -24,13 +24,6 @@ List in order of urgency:
 - [ ] Module 7 (due 03MAR2021)
 - [ ] Module 8 (due 03MAR2021)
   - [ ] Module 5-8 exam (due 03MAR2021)
-
-### Basics of programming 2 [[repo]](https://github.com/oskarforssell/python_course_2021)
-- [ ] Task 8 (due 28FEB2021) [[repo]](https://github.com/oskarforssell/python_course_2021/tree/master/task8_img_to_ascii_folder)<br/>
-Link to Moodle [Task 8](https://samkmoodle.samk.fi/mod/resource/view.php?id=13591) <br/>
-Link to Moodle [Return task8 here](https://samkmoodle.samk.fi/mod/assign/view.php?id=13590)
-  - [x] Normal - check pillow for guide to save ascii image. **Task returned** <br/> 
-  - [ ] Hard - move the url retrieving feature into the class as a method. **In process**
 
 ### ROS [[repo]](https://github.com/oskarforssell/ros_course)
 - [ ] 2nd lecture exam (10MAY2021)
