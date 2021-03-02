@@ -32,7 +32,7 @@ List in order of urgency:
 - [ ] write instructions to GitHub on how to get the services running (and different commands)
 
 ### C# [[repo]](https://github.com/oskarforssell/c_code)
-- [ ] Homework (due 08MAR2021)
+- [ ] Homework (due 08MAR2021)  (attach .cs & .csproj files only, others not needed)
 - [ ] Github instructions (own reference)
 
 ### Extra
