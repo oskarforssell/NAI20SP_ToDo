@@ -3,7 +3,8 @@
 List in order of urgency:
 1. ~**Basics of Programming 2** (28FEB - Hard deadline)~
 2. **Introductino to Networks** (03MAR - Flexible deadline)
-3. **ROS** (10MAY - Hard deadline)
+3. **Object Oriented Programing** (08MAR - Hard deadline)
+4. **ROS** (10MAY - Hard deadline)
 ---
 ### Server architecture [[repo]](https://github.com/oskarforssell/server_architectures)
 - [ ] FastAPI & uvicorn [[repo]](https://github.com/oskarforssell/server_architectures/tree/master/fastAPI_code)
@@ -31,6 +32,7 @@ List in order of urgency:
 - [ ] write instructions to GitHub on how to get the services running (and different commands)
 
 ### C# [[repo]](https://github.com/oskarforssell/c_code)
+- [ ] Homework (due 08MAR2021)
 - [ ] Github instructions (own reference)
 
 ### Extra
