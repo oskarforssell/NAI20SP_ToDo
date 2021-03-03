@@ -20,7 +20,7 @@ List in order of urgency:
 - [x] Module 3
 - [x] Module 4 (due 17FEB2021)
   - [x] Module 1-4 exam (due 17APR2021)
-- [ ] Module 5 (due 24FEB2021)
+- [x] Module 5 (due 24FEB2021)
 - [ ] Module 6 (due 24FEB2021)
 - [ ] Module 7 (due 03MAR2021)
 - [ ] Module 8 (due 03MAR2021)
