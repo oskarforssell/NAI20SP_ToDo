@@ -2,7 +2,7 @@
 
 List in order of urgency:
 1. ~**Basics of Programming 2** (28FEB - Hard deadline)~
-2. **Introductino to Networks** (10MAR - Flexible deadline) [link](#introduction-to-networks)
+2. **Introductino to Networks** (10MAR - Flexible deadline) [link](#introduction-to-networks-[[repo md]](https://github.com/oskarforssell/server_architectures/blob/master/networks.md))
 3. ~**Object Oriented Programing** (08MAR - Hard deadline)~
 4. **ROS** (10MAY - Hard deadline)
 ---
