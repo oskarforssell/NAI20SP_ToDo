@@ -36,6 +36,8 @@ List in order of urgency:
 - [ ] Github instructions (own reference)
 
 ### Extra
+- [ ] Read up on **secure copy**, copy over ssh
+
 YouTube tutorial:
 [Juhos' version ctrl videos](https://www.youtube.com/watch?v=A2lt5TORO1c&list=PLT_HKwjjqjcUtdDqbleCDkev0KyUYF5uj "Juho Salli's tutorial on https://www.youtube.com/")
 
