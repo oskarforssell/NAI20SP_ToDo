@@ -2,7 +2,7 @@
 
 List in order of urgency:
 1. ~**Basics of Programming 2** (28FEB - Hard deadline)~
-2. **Introductino to Networks** (03MAR - Flexible deadline)
+2. **Introductino to Networks** (10MAR - Flexible deadline)
 3. ~**Object Oriented Programing** (08MAR - Hard deadline)~
 4. **ROS** (10MAY - Hard deadline)
 ---
@@ -20,8 +20,8 @@ List in order of urgency:
 - [x] Module 3
 - [x] Module 4 (due 17FEB2021)
   - [x] Module 1-4 exam (due 17APR2021)
-- [x] Module 5 (due 24FEB2021)
-- [ ] Module 6 (due 24FEB2021)
+- [x] Module 5 (due 03MAR2021)
+- [ ] Module 6 (due 03MAR2021)
 - [ ] Module 7 (due 10MAR2021)
 - [ ] Module 8 (due 10MAR2021)
   - [ ] Module 5-8 exam (due 10MAR2021)
