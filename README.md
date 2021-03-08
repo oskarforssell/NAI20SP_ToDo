@@ -3,6 +3,7 @@
 List in order of urgency:
 1. ~**ROS** (10MAR - Hard deadline)~
 2. **Introductino to Networks** (10MAR - Flexible deadline)
+3. **Introduction to AI** (23MAR - Hard deadline)
 ---
 ### Server architecture [[repo]](https://github.com/oskarforssell/server_architectures)
 - [ ] FastAPI & uvicorn [[repo]](https://github.com/oskarforssell/server_architectures/tree/master/fastAPI_code)
@@ -33,8 +34,15 @@ List in order of urgency:
 - [x] Homework (due 08MAR2021)  (attach .cs & .csproj files only, others not needed)
 - [ ] Github instructions (own reference)
 
+### Intro to AI [[Moodle link]](https://samkmoodle.samk.fi/course/view.php?id=358)
+- Expect 3 questions from each document (3 x 10 documents)
+- [ ] [[Best practices]](https://samkmoodle.samk.fi/mod/resource/view.php?id=13820)
+- [ ] [[Transfer Learning]](https://samkmoodle.samk.fi/mod/resource/view.php?id=13816)
+- [ ] [[Best pretain models]] (https://samkmoodle.samk.fi/mod/resource/view.php?id=13816)
+- [ ] etc.
+
 ### Extra
-- [ ] Read up on **secure copy | scp**, copy over ssh [[repo]](https://github.com/oskarforssell/unix_terminal_commands)
+- [x] Read up on **secure copy | scp**, copy over ssh [[repo]](https://github.com/oskarforssell/unix_terminal_commands)     
 
 YouTube tutorial:
 [Juhos' version ctrl videos](https://www.youtube.com/watch?v=A2lt5TORO1c&list=PLT_HKwjjqjcUtdDqbleCDkev0KyUYF5uj "Juho Salli's tutorial on https://www.youtube.com/")
