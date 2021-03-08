@@ -1,7 +1,7 @@
 # NAI20SP To Do List
 
 List in order of urgency:
-1. **ROS** (10MAR - Hard deadline)
+1. ~**ROS** (10MAR - Hard deadline)~
 2. **Introductino to Networks** (10MAR - Flexible deadline)
 ---
 ### Server architecture [[repo]](https://github.com/oskarforssell/server_architectures)
@@ -26,7 +26,7 @@ List in order of urgency:
 
 ### ROS [[repo]](https://github.com/oskarforssell/ros_course)
 - [x] 2nd lecture exam (10MAY2021)
-- [ ] 4th lecture exam (10MAY2021)
+- [x] 4th lecture exam (10MAY2021)
 - [ ] write instructions to GitHub on how to get the services running (and different commands)
 
 ### C# [[repo]](https://github.com/oskarforssell/c_code)
