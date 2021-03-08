@@ -1,10 +1,8 @@
 # NAI20SP To Do List
 
 List in order of urgency:
-1. ~**Basics of Programming 2** (28FEB - Hard deadline)~
+1. **ROS** (10MAR - Hard deadline)
 2. **Introductino to Networks** (10MAR - Flexible deadline)
-3. ~**Object Oriented Programing** (08MAR - Hard deadline)~
-4. **ROS** (10MAY - Hard deadline)
 ---
 ### Server architecture [[repo]](https://github.com/oskarforssell/server_architectures)
 - [ ] FastAPI & uvicorn [[repo]](https://github.com/oskarforssell/server_architectures/tree/master/fastAPI_code)
@@ -27,7 +25,7 @@ List in order of urgency:
   - [ ] Module 5-8 exam (due 10MAR2021)
 
 ### ROS [[repo]](https://github.com/oskarforssell/ros_course)
-- [ ] 2nd lecture exam (10MAY2021)
+- [x] 2nd lecture exam (10MAY2021)
 - [ ] 4th lecture exam (10MAY2021)
 - [ ] write instructions to GitHub on how to get the services running (and different commands)
 
