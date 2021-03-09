@@ -2,8 +2,8 @@
 
 List in order of urgency:
 1. ~**ROS** (10MAR - Hard deadline)~
-2. **Introductino to Networks** (10MAR - Flexible deadline)
-3. **Introduction to AI** (23MAR - Hard deadline)
+2. **Introductino to Networks** (17MAR - Flexible deadline)
+3. **Introduction to AI** (23MAR - exam date)
 ---
 ### Server architecture [[repo]](https://github.com/oskarforssell/server_architectures)
 - [ ] FastAPI & uvicorn [[repo]](https://github.com/oskarforssell/server_architectures/tree/master/fastAPI_code)
@@ -22,8 +22,8 @@ List in order of urgency:
 - [x] Module 5 (due 03MAR2021)
 - [x] Module 6 (due 03MAR2021)
 - [x] Module 7 (due 10MAR2021)
-- [ ] Module 8 (due 10MAR2021)
-  - [ ] Module 5-8 exam (due 10MAR2021)
+- [x] Module 8 (due 10MAR2021)
+  - [x] Module 5-8 exam (due 10MAR2021)
 - [ ] Module 9 (due 17MAR2021)
 - [ ] Module 10 (due 17MAR2021)
 - [ ] Module 11 (due 24MAR2021)
