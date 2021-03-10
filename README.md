@@ -1,4 +1,5 @@
 # NAI20SP To Do List
+[Link table](https://github.com/oskarforssell/NAI20SP_ToDo/blob/main/README.md#links-to-other-repos)
 
 List in order of urgency:
 1. ~**ROS** (10MAR - Hard deadline)~
@@ -77,6 +78,8 @@ C# - OOP | [[repo]](https://github.com/oskarforssell/c_code)
 Intro to AI | [[Moodle link]](https://samkmoodle.samk.fi/course/view.php?id=358)
 Unix commands | [[unix_cmd_repo]](https://github.com/oskarforssell/unix_terminal_commands)    
 Juho git video | [version ctrl](https://www.youtube.com/watch?v=A2lt5TORO1c&list=PLT_HKwjjqjcUtdDqbleCDkev0KyUYF5uj "Juho Salli's tutorial on https://www.youtube.com/")
+
+---
 
 <code> Repo README markdown test </code>
 
