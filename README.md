@@ -62,10 +62,8 @@ Final Exam
 - [ ] etc.
 
 ### Extra
-- [x] Read up on **secure copy | scp**, copy over ssh [[unix_cmd_repo]](https://github.com/oskarforssell/unix_terminal_commands)     
-
-YouTube tutorial:
-[Juhos' version ctrl videos](https://www.youtube.com/watch?v=A2lt5TORO1c&list=PLT_HKwjjqjcUtdDqbleCDkev0KyUYF5uj "Juho Salli's tutorial on https://www.youtube.com/")
+- [x] Read up on **secure copy | scp**, copy over ssh [[unix_cmd_repo]](https://github.com/oskarforssell/unix_terminal_commands)
+- [ ] YouTube tutorial: [Juhos' version ctrl videos](https://www.youtube.com/watch?v=A2lt5TORO1c&list=PLT_HKwjjqjcUtdDqbleCDkev0KyUYF5uj "Juho Salli's tutorial on https://www.youtube.com/")
 
 ---
 ### Links to other repos
