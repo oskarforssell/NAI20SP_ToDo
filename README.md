@@ -57,7 +57,7 @@ Final Exam
 - Expect 3 questions from each document (3 x 10 documents)
 - [ ] [[Best practices]](https://samkmoodle.samk.fi/mod/resource/view.php?id=13820)
 - [ ] [[Transfer Learning]](https://samkmoodle.samk.fi/mod/resource/view.php?id=13816)
-- [ ] [[Best pretain models]] (https://samkmoodle.samk.fi/mod/resource/view.php?id=13816)
+- [ ] [[Best pretain models]](https://samkmoodle.samk.fi/mod/resource/view.php?id=13816)
 - [ ] etc.
 
 ### Extra
