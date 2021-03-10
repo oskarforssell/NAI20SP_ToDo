@@ -55,18 +55,29 @@ Final Exam
 
 ### Intro to AI [[Moodle link]](https://samkmoodle.samk.fi/course/view.php?id=358)
 - Expect 3 questions from each document (3 x 10 documents)
-- [ ] [[Best practices]](https://samkmoodle.samk.fi/mod/resource/view.php?id=13820)
-- [ ] [[Transfer Learning]](https://samkmoodle.samk.fi/mod/resource/view.php?id=13816)
-- [ ] [[Best pretain models]](https://samkmoodle.samk.fi/mod/resource/view.php?id=13816)
+- [ ] [Best practices](https://samkmoodle.samk.fi/mod/resource/view.php?id=13820)
+- [ ] [Transfer Learning](https://samkmoodle.samk.fi/mod/resource/view.php?id=13816)
+- [ ] [Best pretain models](https://samkmoodle.samk.fi/mod/resource/view.php?id=13816)
 - [ ] etc.
 
 ### Extra
-- [x] Read up on **secure copy | scp**, copy over ssh [[repo]](https://github.com/oskarforssell/unix_terminal_commands)     
+- [x] Read up on **secure copy | scp**, copy over ssh [[unix_cmd_repo]](https://github.com/oskarforssell/unix_terminal_commands)     
 
 YouTube tutorial:
 [Juhos' version ctrl videos](https://www.youtube.com/watch?v=A2lt5TORO1c&list=PLT_HKwjjqjcUtdDqbleCDkev0KyUYF5uj "Juho Salli's tutorial on https://www.youtube.com/")
 
 ---
+### Links to other repos
+Target | link
+:--|----:
+Server architecture | [[repo]](https://github.com/oskarforssell/server_architectures)
+Introduction to Networks | [[repo md]](https://github.com/oskarforssell/server_architectures/blob/master/networks.md)
+ROS | [[repo]](https://github.com/oskarforssell/ros_course)
+C# - OOP | [[repo]](https://github.com/oskarforssell/c_code)
+Intro to AI | [[Moodle link]](https://samkmoodle.samk.fi/course/view.php?id=358)
+Unix commands | [[unix_cmd_repo]](https://github.com/oskarforssell/unix_terminal_commands)    
+Juho git video | [version ctrl](https://www.youtube.com/watch?v=A2lt5TORO1c&list=PLT_HKwjjqjcUtdDqbleCDkev0KyUYF5uj "Juho Salli's tutorial on https://www.youtube.com/")
+
 <code> Repo README markdown test </code>
 
 Test | box | grid
