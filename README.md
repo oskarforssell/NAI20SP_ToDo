@@ -46,8 +46,8 @@ Final Exam
 - [ ] Course Final exam (due 28APR2021)
 
 ### ROS [[repo]](https://github.com/oskarforssell/ros_course)
-- [x] 2nd lecture exam (10MAY2021)
-- [x] 4th lecture exam (10MAY2021)
+- [x] 2nd lecture exam (10MAR2021)
+- [x] 4th lecture exam (10MAR2021)
 - [ ] write instructions to GitHub on how to get the services running (and different commands)
 
 ### C# [[repo]](https://github.com/oskarforssell/c_code)
