@@ -64,6 +64,7 @@ Final Exam
 ### Extra
 - [x] Read up on **secure copy | scp**, copy over ssh [[unix_cmd_repo]](https://github.com/oskarforssell/unix_terminal_commands)
 - [ ] YouTube tutorial: [Juhos' version ctrl videos](https://www.youtube.com/watch?v=A2lt5TORO1c&list=PLT_HKwjjqjcUtdDqbleCDkev0KyUYF5uj "Juho Salli's tutorial on https://www.youtube.com/")
+- [ ] YouTube guide: [Juhos' Bokxi installation](https://www.youtube.com/watch?v=0YMrpY4Fm_0 "Juho Salli's BOKXI installation guide - Finnish")
 
 ---
 ### Links to other repos
