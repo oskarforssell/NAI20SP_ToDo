@@ -2,9 +2,10 @@
 [Link table](https://github.com/oskarforssell/NAI20SP_ToDo/blob/main/README.md#links-to-other-repos)
 
 List in order of urgency:
-1. ~**ROS** (10MAR - Hard deadline)~
-2. **Introductino to Networks** (17MAR - Flexible deadline)
-3. **Introduction to AI** (23MAR - exam date)
+1. **Introduction to AI** (23MAR - exam date)
+2. **C#** (23MAR - Hard deadline)
+3. **Introductino to Networks** (24MAR - Flexible deadline)
+4.  **ROS** (01MAY - Hard deadline)
 ---
 ### Server architecture [[repo]](https://github.com/oskarforssell/server_architectures)
 - [ ] FastAPI & uvicorn [[repo]](https://github.com/oskarforssell/server_architectures/tree/master/fastAPI_code)
