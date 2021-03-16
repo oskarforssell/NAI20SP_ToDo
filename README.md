@@ -46,8 +46,11 @@ Final Exam
 - [ ] Course Final exam (due 28APR2021)
 
 ### ROS [[repo]](https://github.com/oskarforssell/ros_course)
-- [x] 2nd lecture exam (10MAR2021)
-- [x] 4th lecture exam (10MAR2021)
+- [ ] 4th lecture exercise (01MAY2021)
+- [ ] 5th lecture "moodle exam" (01MAY2021)
+- [ ] 7th lecture "gazebo exercise" (01MAY2021)
+- [ ] 8th lecture exam (01MAY2021)
+- [ ] 9th lecture exam "lidars and meshes in gazebo" (01MAY2021)
 - [ ] write instructions to GitHub on how to get the services running (and different commands)
 
 ### C# [[repo]](https://github.com/oskarforssell/c_code)
