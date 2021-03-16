@@ -26,7 +26,7 @@ List in order of urgency:
 - [x] Module 8 (due 10MAR2021)
   - [x] Module 5-8 exam (due 10MAR2021)
 - [x] Module 9 (due 17MAR2021)
-- [ ] Module 10 (due 17MAR2021)
+- [x] Module 10 (due 17MAR2021)
 - [ ] Module 11 (due 24MAR2021)
 - [ ] Module 12 (due 24MAR2021)
   - [ ] Module 9-12 (due 24MAR2021)
@@ -51,11 +51,11 @@ Final Exam
 - [ ] write instructions to GitHub on how to get the services running (and different commands)
 
 ### C# [[repo]](https://github.com/oskarforssell/c_code)
-- [x] Homework (due 08MAR2021)  (attach .cs & .csproj files only, others not needed)
+- [ ] Homework (due 23MAR2021)  (attach .cs & .csproj files in a file lastname-firstname.zip)
 - [ ] Github instructions (own reference)
 
 ### Intro to AI [[Moodle link]](https://samkmoodle.samk.fi/course/view.php?id=358)
-- Expect 3 questions from each document (3 x 10 documents)
+- Expect 3 questions from each document (3 x 10 documents) **EXAM date 23MAR**
 - [ ] [Best practices](https://samkmoodle.samk.fi/mod/resource/view.php?id=13820)
 - [ ] [Transfer Learning](https://samkmoodle.samk.fi/mod/resource/view.php?id=13816)
 - [ ] [Best pretain models](https://samkmoodle.samk.fi/mod/resource/view.php?id=13816)
