@@ -20,7 +20,7 @@ List in order of urgency:
 ### Introduction to Networks [[repo md]](https://github.com/oskarforssell/server_architectures/blob/master/networks.md)
 - [x] Module 9 (due 17MAR2021)
 - [x] Module 10 (due 17MAR2021)
-- [ ] Module 11 (due 24MAR2021)
+- [x] Module 11 (due 24MAR2021)
 - [ ] Module 12 (due 24MAR2021)
   - [ ] Module 9-12 (due 24MAR2021)
 - [ ] Module 13 (due 31MAR2021)
