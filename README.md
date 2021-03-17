@@ -3,7 +3,7 @@
 
 List in order of urgency:
 1. **Introduction to AI** (23MAR - exam date)
-2. **C#** (23MAR - Hard deadline)
+2. ~**C#** (23MAR - Hard deadline)~
 3. **Introductino to Networks** (24MAR - Flexible deadline)
 4.  **ROS** (01MAY - Hard deadline)
 ---
@@ -47,7 +47,7 @@ Final Exam
 - [ ] write instructions to GitHub on how to get the services running (and different commands)
 
 ### C# [[repo]](https://github.com/oskarforssell/c_code)
-- [ ] Homework (due 23MAR2021)  (attach .cs & .csproj files in a file lastname-firstname.zip)
+- [x] Homework (due 23MAR2021)  (attach .cs & .csproj files in a file lastname-firstname.zip)
 - [ ] Github instructions (own reference)
 
 ### Intro to AI [[Moodle link]](https://samkmoodle.samk.fi/course/view.php?id=358)
