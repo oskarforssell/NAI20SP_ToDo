@@ -17,11 +17,6 @@ List in order of urgency:
 	    - [ ] [chatbot\_django\_wip\_18\_2\_2021.zip](https://samkmoodle.samk.fi/mod/resource/view.php?id=13687)
 
 ### Introduction to Networks [[repo md]](https://github.com/oskarforssell/server_architectures/blob/master/networks.md)
-- [x] Module 9 (due 17MAR2021)
-- [x] Module 10 (due 17MAR2021)
-- [x] Module 11 (due 24MAR2021)
-- [x] Module 12 (due 24MAR2021)
-  - [x] Module 9-12 (due 24MAR2021)
 - [ ] Module 13 (due 31MAR2021)
 - [ ] Module 14 (due 31MAR2021)
 - [ ] Module 15 (due 07APR2021)
