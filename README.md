@@ -2,7 +2,7 @@
 [Link table](https://github.com/oskarforssell/NAI20SP_ToDo/blob/main/README.md#links-to-other-repos)
 
 List in order of urgency:
-1. **Introduction to AI** (23MAR - exam date)
+1. ~**Introduction to AI** (23MAR - exam date)~
 2. **Introductino to Networks** (31MAR - Flexible deadline)
 3. **ROS** (01MAY - Hard deadline)
 ---
@@ -43,13 +43,6 @@ Final Exam
 ### C# [[repo]](https://github.com/oskarforssell/c_code)
 - [x] Homework (due 23MAR2021)  (attach .cs & .csproj files in a file lastname-firstname.zip)
 - [ ] Github instructions (own reference)
-
-### Intro to AI [[Moodle link]](https://samkmoodle.samk.fi/course/view.php?id=358)
-- Expect 3 questions from each document (3 x 10 documents) **EXAM date 23MAR**
-- [ ] [Best practices](https://samkmoodle.samk.fi/mod/resource/view.php?id=13820)
-- [ ] [Transfer Learning](https://samkmoodle.samk.fi/mod/resource/view.php?id=13816)
-- [ ] [Best pretain models](https://samkmoodle.samk.fi/mod/resource/view.php?id=13816)
-- [ ] etc.
 
 ### Extra
 - [x] Read up on **secure copy | scp**, copy over ssh [[unix_cmd_repo]](https://github.com/oskarforssell/unix_terminal_commands)
