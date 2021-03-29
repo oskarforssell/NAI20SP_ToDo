@@ -5,6 +5,7 @@ List in order of urgency:
 1. **Introductino to Networks** (07APR - Flexible deadline)
 2. **AI Theme - Robowars** (30APR - Hard deadline)
 3. **ROS** (01MAY - Hard deadline)
+4. **Update code in AI project** [[find_jpg_txt_pairs.py]](https://github.com/oskarforssell/python_code_folder/blob/master/find_jpg_txt_pairs.py)
 ---
 ### Server architecture [[repo]](https://github.com/oskarforssell/server_architectures)
 - [x] Complete chatbot tasks and upload to Heroku
