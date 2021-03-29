@@ -3,7 +3,8 @@
 
 List in order of urgency:
 1. **Introductino to Networks** (07APR - Flexible deadline)
-2. **ROS** (01MAY - Hard deadline)
+2. **AI Theme - Robowars** (30APR - Hard deadline)
+3. **ROS** (01MAY - Hard deadline)
 ---
 ### Server architecture [[repo]](https://github.com/oskarforssell/server_architectures)
 - [x] Complete chatbot tasks and upload to Heroku
@@ -32,6 +33,15 @@ Final Exam
 - [ ] 9th lecture exam "lidars and meshes in gazebo" (01MAY2021)
 - [ ] write instructions to GitHub on how to get the services running (and different commands)
 
+### AI Theme - RoboWars [[repo]](https://github.com/FETTZOR/robot_localization_1)
+Link to [[progress.md]](https://github.com/FETTZOR/robot_localization_1/blob/master/Progress.md)
+- [ ] Look into IMU controls
+- [ ] Locate enemy with ultrasound
+- [ ] Replace odom with IMU in robot 1 code
+- [ ] Check how to collect data for neural net
+- [ ] How much data is required
+- [ ] Tinker with neural net model 
+
 ### C# [[repo]](https://github.com/oskarforssell/c_code)
 - [x] Homework (due 23MAR2021)  (attach .cs & .csproj files in a file lastname-firstname.zip)
 - [ ] Github instructions (own reference)
@@ -48,6 +58,7 @@ Target | link
 Server architecture | [[repo]](https://github.com/oskarforssell/server_architectures)
 Introduction to Networks | [[repo md]](https://github.com/oskarforssell/server_architectures/blob/master/networks.md)
 ROS | [[repo]](https://github.com/oskarforssell/ros_course)
+AI Theme - RoboWars | [[repo]](https://github.com/FETTZOR/robot_localization_1)
 C# - OOP | [[repo]](https://github.com/oskarforssell/c_code)
 Intro to AI | [[Moodle link]](https://samkmoodle.samk.fi/course/view.php?id=358)
 Unix commands | [[unix_cmd_repo]](https://github.com/oskarforssell/unix_terminal_commands)    
