@@ -6,14 +6,7 @@ List in order of urgency:
 2. **ROS** (01MAY - Hard deadline)
 ---
 ### Server architecture [[repo]](https://github.com/oskarforssell/server_architectures)
-- [ ] FastAPI & uvicorn [[repo]](https://github.com/oskarforssell/server_architectures/tree/master/fastAPI_code)
-- [ ] Django [[repo]](https://github.com/oskarforssell/server_architectures/tree/master/django_chatbot)
-    - [ ] Checkout the Django material in [Moodle](https://samkmoodle.samk.fi/course/view.php?id=354 "18.2.2021 - FastAPI & Django") 
-	    Downloadable:
-	    - [ ] [fastapi\_login\_example.zip](https://samkmoodle.samk.fi/mod/resource/view.php?id=13608)
-	    - [ ] [template\_chatbot.html](https://samkmoodle.samk.fi/mod/resource/view.php?id=13617)
-	    - [ ] [static.zip](https://samkmoodle.samk.fi/mod/resource/view.php?id=13632)
-	    - [ ] [chatbot\_django\_wip\_18\_2\_2021.zip](https://samkmoodle.samk.fi/mod/resource/view.php?id=13687)
+- [x] Complete chatbot tasks and upload to Heroku
 
 ### Introduction to Networks [[repo md]](https://github.com/oskarforssell/server_architectures/blob/master/networks.md)
 - [x] Module 13 (due 31MAR2021)
