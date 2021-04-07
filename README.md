@@ -15,7 +15,7 @@ List in order of urgency:
 - [x] Module 14 (due 31MAR2021)
 - [x] Module 15 (due 07APR2021)
 - [x] Module 16 (due 07APR2021)
-  - [ ] Module 13-16 (due 07APR2021)
+  - [x] Module 13-16 (due 07APR2021)
 - [ ] Module 17 (due 14APR2021)
 - [ ] Module 18 (due 14APR2021)
 - [ ] Module 19 (due 21APR2021)
