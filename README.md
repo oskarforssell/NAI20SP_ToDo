@@ -31,7 +31,7 @@ Final Exam
 - [ ] 4th lecture exercise (01MAY2021)
 - [x] 5th lecture "moodle exam" (01MAY2021)
 - [ ] 7th lecture "gazebo exercise" (01MAY2021)
-- [ ] 8th lecture exam (01MAY2021)
+- [x] 8th lecture exam (01MAY2021)
 - [ ] 9th lecture exam "lidars and meshes in gazebo" (01MAY2021)
 - [ ] write instructions to GitHub on how to get the services running (and different commands)
 
