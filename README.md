@@ -29,7 +29,7 @@ Final Exam
 
 ### ROS [[repo]](https://github.com/oskarforssell/ros_course)
 - [ ] 4th lecture exercise (01MAY2021)
-- [ ] 5th lecture "moodle exam" (01MAY2021)
+- [x] 5th lecture "moodle exam" (01MAY2021)
 - [ ] 7th lecture "gazebo exercise" (01MAY2021)
 - [ ] 8th lecture exam (01MAY2021)
 - [ ] 9th lecture exam "lidars and meshes in gazebo" (01MAY2021)
