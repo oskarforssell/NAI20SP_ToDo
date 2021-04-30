@@ -5,8 +5,7 @@ List in order of urgency:
 1. **Introductino to Networks** (07APR - Flexible deadline)
 2. **AI Theme - Robowars** (30APR - Hard deadline)
 3. **ROS** (01MAY - Hard deadline)
-4. **C#** (09MAY - Hard deadline)
-5. **Update code in AI project** [[find_jpg_txt_pairs.py]](https://github.com/oskarforssell/python_code_folder/blob/master/find_jpg_txt_pairs.py)
+4. **Update code in AI project** [[find_jpg_txt_pairs.py]](https://github.com/oskarforssell/python_code_folder/blob/master/find_jpg_txt_pairs.py)
 ---
 ### Server architecture [[repo]](https://github.com/oskarforssell/server_architectures)
 - [x] Complete chatbot tasks and upload to Heroku
@@ -45,7 +44,7 @@ Link to [[progress.md]](https://github.com/FETTZOR/robot_localization_1/blob/mas
 - [ ] Tinker with neural net model 
 
 ### C# [[repo]](https://github.com/oskarforssell/c_code)
-- [ ] Object Oriented Programming final task (due 09MAY2021)  (CardGame-OOP_final_task)
+- [x] Object Oriented Programming final task (due 09MAY2021)  (CardGame-OOP_final_task)
 
 ### Extra
 - [x] Read up on **secure copy | scp**, copy over ssh [[unix_cmd_repo]](https://github.com/oskarforssell/unix_terminal_commands)
