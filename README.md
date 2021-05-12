@@ -19,7 +19,7 @@ List in order of urgency:
 - [x] Module 17 (due 14APR2021)
 - [x] Module 18 (due 14APR2021)
 - [x] Module 19 (due 21APR2021)
-- [ ] Module 20 (due 21APR2021)
+- [x] Module 20 (due 21APR2021)
   - [ ] Module 17-20 (due 21APR2021)
 Skills Exam
 - [ ] Skills exam (due 28APR2021)
