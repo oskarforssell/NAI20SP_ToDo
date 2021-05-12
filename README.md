@@ -2,7 +2,7 @@
 [Link table](https://github.com/oskarforssell/NAI20SP_ToDo/blob/main/README.md#links-to-other-repos)
 
 List in order of urgency:
-1. **Introductino to Networks** (07APR - Flexible deadline)
+1. ~**Introductino to Networks** (07APR - Flexible deadline)~
 2. **AI Theme - Robowars** (30APR - Hard deadline)
 3. **ROS** (01MAY - Hard deadline)
 4. **Update code in AI project** [[find_jpg_txt_pairs.py]](https://github.com/oskarforssell/python_code_folder/blob/master/find_jpg_txt_pairs.py)
@@ -22,7 +22,7 @@ List in order of urgency:
 - [x] Module 20 (due 21APR2021)
   - [x] Module 17-20 (due 21APR2021)
 Skills Exam
-- [ ] Skills exam (due 28APR2021)
+- [x] Skills test (due 28APR2021)
 Final Exam
 - [x] Course Final exam (due 28APR2021)
 
