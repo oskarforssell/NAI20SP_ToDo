@@ -4,7 +4,7 @@
 List in order of urgency:
 1. ~**Introductino to Networks** (07APR - Flexible deadline)~
 2. **AI Theme - Robowars** (30APR - Hard deadline)
-3. **ROS** (01MAY - Hard deadline)
+3. ~**ROS** (01MAY - Hard deadline)~
 4. **Update code in AI project** [[find_jpg_txt_pairs.py]](https://github.com/oskarforssell/python_code_folder/blob/master/find_jpg_txt_pairs.py)
 ---
 ### Server architecture [[repo]](https://github.com/oskarforssell/server_architectures)
@@ -27,9 +27,9 @@ Final Exam
 - [x] Course Final exam (due 28APR2021)
 
 ### ROS [[repo]](https://github.com/oskarforssell/ros_course)
-- [ ] 4th lecture exercise (01MAY2021)
+- [x] 4th lecture exercise (01MAY2021)
 - [x] 5th lecture "moodle exam" (01MAY2021)
-- [ ] 7th lecture "gazebo exercise" (01MAY2021)
+- [x] 7th lecture "gazebo exercise" (01MAY2021)
 - [x] 8th lecture exam (01MAY2021)
 - [x] 9th lecture exam "lidars and meshes in gazebo" (01MAY2021)
 - [ ] write instructions to GitHub on how to get the services running (and different commands)
