@@ -2,49 +2,8 @@
 [Link table](https://github.com/oskarforssell/NAI20SP_ToDo/blob/main/README.md#links-to-other-repos)
 
 List in order of urgency:
-1. ~**Introductino to Networks** (07APR - Flexible deadline)~
-2. **AI Theme - Robowars** (30APR - Hard deadline)
-3. ~**ROS** (01MAY - Hard deadline)~
-4. **Update code in AI project** [[find_jpg_txt_pairs.py]](https://github.com/oskarforssell/python_code_folder/blob/master/find_jpg_txt_pairs.py)
+1. ~~**Update code in AI project**~~ [[find_jpg_txt_pairs.py]](https://github.com/oskarforssell/python_code_folder/blob/master/find_jpg_txt_pairs.py)
 ---
-### Server architecture [[repo]](https://github.com/oskarforssell/server_architectures)
-- [x] Complete chatbot tasks and upload to Heroku
-
-### Introduction to Networks [[repo md]](https://github.com/oskarforssell/server_architectures/blob/master/networks.md)
-- [x] Module 13 (due 31MAR2021)
-- [x] Module 14 (due 31MAR2021)
-- [x] Module 15 (due 07APR2021)
-- [x] Module 16 (due 07APR2021)
-  - [x] Module 13-16 (due 07APR2021)
-- [x] Module 17 (due 14APR2021)
-- [x] Module 18 (due 14APR2021)
-- [x] Module 19 (due 21APR2021)
-- [x] Module 20 (due 21APR2021)
-  - [x] Module 17-20 (due 21APR2021)
-Skills Exam
-- [x] Skills test (due 28APR2021)
-Final Exam
-- [x] Course Final exam (due 28APR2021)
-
-### ROS [[repo]](https://github.com/oskarforssell/ros_course)
-- [x] 4th lecture exercise (01MAY2021)
-- [x] 5th lecture "moodle exam" (01MAY2021)
-- [x] 7th lecture "gazebo exercise" (01MAY2021)
-- [x] 8th lecture exam (01MAY2021)
-- [x] 9th lecture exam "lidars and meshes in gazebo" (01MAY2021)
-- [ ] write instructions to GitHub on how to get the services running (and different commands)
-
-### AI Theme - RoboWars [[repo]](https://github.com/FETTZOR/robot_localization_1)
-Link to [[progress.md]](https://github.com/FETTZOR/robot_localization_1/blob/master/Progress.md)
-- [ ] Look into IMU controls
-- [ ] Locate enemy with ultrasound
-- [ ] Replace odom with IMU in robot 1 code
-- [ ] Check how to collect data for neural net
-- [ ] How much data is required
-- [ ] Tinker with neural net model 
-
-### C# [[repo]](https://github.com/oskarforssell/c_code)
-- [x] Object Oriented Programming final task (due 09MAY2021)  (CardGame-OOP_final_task)
 
 ### Extra
 - [x] Read up on **secure copy | scp**, copy over ssh [[unix_cmd_repo]](https://github.com/oskarforssell/unix_terminal_commands)
